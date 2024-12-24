@@ -208,8 +208,9 @@ type AssignmentPageProps = {
 2. Log in to [Vercel](https://vercel.com/).
 3. Click on "+ New Project" and import your GitHub repository.
 4. Configure build settings (Root Directory: `./`).
-5. Click "Deploy".
-6. Access the deployed application through the provided URL.
+5. Add Supabase project URL and the Anon Key.
+6. Click "Deploy".
+7. Access the deployed application through the provided URL.
 
 ---
 
